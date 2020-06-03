@@ -1,2 +1,1 @@
-# gitcourse
-git course homework
+welcome to learn git
